@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-MusicMix-red)](https://www.youtube.com/channel/UCEfxUEEhtzujxVP18crXa5g)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Music Mix-red)](https://www.youtube.com/channel/UCEfxUEEhtzujxVP18crXa5g)
 [![Linkedin Badge](https://img.shields.io/badge/-Warish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/warish-raaz)](https://in.linkedin.com/in/warish-raaz)
 [![Website Badge](https://img.shields.io/badge/WebSite-Warish-green)](https://warination.github.io/MdWarishRaaz/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Warish-yellow)]()
