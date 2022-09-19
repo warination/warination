@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FosterKid-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Warish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Warish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/warish-raaz)](https://in.linkedin.com/in/warish-raaz)
 [![Website Badge](https://img.shields.io/badge/WebSite-Warish-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Warish-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
