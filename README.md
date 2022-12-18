@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome!!!!<br>I'm Full Stack Solution Architect The crossover between design and programming has always been of interest to me.<br>I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Welcome!!!!<br>I'm Full Stack Solution Architect The crossover between design and programming has always been of interest to me.<br>I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),,database(MongoDB,cassendra,Mysql)
 
 
 ## 🌐 Socials:
